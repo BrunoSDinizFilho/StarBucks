@@ -1,6 +1,6 @@
 README.md
 
-# DIO | Olá! Eu sou o Bruno Diniz - Landing Page StarBucks🤘🏽
+# | Olá! Eu sou o Bruno Diniz - Landing Page StarBucks🤘🏽
 
 Olá! Sou Bruno da Silva Diniz Filho, um Desenvolvedor Júnior apaixonado por criar interfaces digitais cativantes e funcionais.
 
